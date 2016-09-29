@@ -8,3 +8,5 @@ I would like to arrive at a solution for Beacon that:
 Please keep ENT-1679 in mind as you complete this spike.
 
 FUCK YOU, EARL!
+
+Lawlz
