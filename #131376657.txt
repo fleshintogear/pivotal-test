@@ -1,0 +1,8 @@
+As Product, I would like the option of excluding clients' platforms from the NEXUS network in the Beacon UI. This is pertinent to CapGroup who does not have permission to share certain platform files due to agreements with their recordkeepers. This enhancement is required to bring CapGroup into NEXUS as they are one of a few firms we need to capture to solidify the strength of our network.
+
+I would like to arrive at a solution for Beacon that:
+
+- Allows client-platform combinations to be excluded from the NEXUS network
+- Prevents that client from seeing data related to the excluded platforms that originates from other NEXUS members
+
+Please keep ENT-1679 in mind as you complete this spike.
