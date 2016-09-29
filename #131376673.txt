@@ -1,0 +1,7 @@
+As Product, I would like the ability to customize the NEXUS Advisor Feed for each client. I would like a solution that can be implemented for any client and handles CapGroup's use case. While building out a solution, we need to address the following points:
+
+-Prevent CapGroup from receiving NEXUS data on the platforms that they are not sending over
+- Ensure this restriction is limited to CapGroup
+- Flexibility for clients with similar implementations
+
+Your mom doesnt make sense
